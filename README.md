@@ -10,11 +10,7 @@
 - Skilled in **MERN Stack**, **REST APIs**, **Authentication**, and **MongoDB**  
 - Always looking to collaborate on impactful projects that push boundaries and elevate user experiences  
 - 📬 Feel free to connect with me on <!-- LinkedIn Button -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-chouksey/)
-
-<!-- Email Button -->
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princechouksey137@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-chouksey/)  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princechouksey137@gmail.com)
 ---
 <!-- Custom hex colors -->
 [![Follow @princechouksey](https://img.shields.io/badge/FOLLOW-@PRINCECHOUKSEY-f3f6f4?style=for-the-badge&color=FF5733&labelColor=2E2E2E)](https://github.com/princechouksey)
