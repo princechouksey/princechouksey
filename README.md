@@ -1,19 +1,15 @@
-# 👋 Hey there, I'm Prince Chouksey!
+# 👋 Hi, I'm Prince Chouksey
 
-Welcome to my GitHub profile! I'm a passionate 💻 Computer Science & Engineering student from OIST Bhopal, currently in my 3rd year, building my tech journey one project at a time.
+**Building seamless web experiences, one elegant solution at a time.**
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-- 🔭 I’m currently working on: A **Multi-Seller Shopping Platform** (inspired by Blinkit + Zomato)
-- 🌱 I’m currently learning: **MERN Stack**, **Computer Networking**, and advanced **DSA in Java**
-- 👯 I’m looking to collaborate on: Full-stack web projects, Open Source, or hackathons like **SIH**
-- 🤖 I’ve built: Twitter Clone • Instagram Clone • Blinkit Backend • Omegal • Phishing Detection System
-- 💬 Ask me about: Backend Development, MongoDB, Express.js, Authentication, REST APIs, or even LeetCode tricks!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/princechouksey) | [Email](mailto:princechouksey@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I debug at 3 AM and still manage to top deadlines like a pro! 😎
+- Passionate about **Full-Stack Development**, focusing on creating intuitive and scalable applications  
+- Skilled in **MERN Stack**, **REST APIs**, **Authentication**, and **MongoDB**  
+- Always looking to collaborate on impactful projects that push boundaries and elevate user experiences  
+- 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/princechouksey) or via [Email](mailto:princechouksey@gmail.com)  
 
 ---
 
