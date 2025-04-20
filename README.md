@@ -9,7 +9,11 @@
 - Passionate about **Full-Stack Development**, focusing on creating intuitive and scalable applications  
 - Skilled in **MERN Stack**, **REST APIs**, **Authentication**, and **MongoDB**  
 - Always looking to collaborate on impactful projects that push boundaries and elevate user experiences  
-- 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/princechouksey) or via [Email](mailto:princechouksey@gmail.com)  
+- 📬 Feel free to connect with me on <!-- LinkedIn Button -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-chouksey/)
+
+<!-- Email Button -->
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princechouksey137@gmail.com) 
 
 ---
 <!-- Custom hex colors -->
