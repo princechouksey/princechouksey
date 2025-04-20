@@ -12,10 +12,8 @@
 - 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/princechouksey) or via [Email](mailto:princechouksey@gmail.com)  
 
 ---
-<!-- White text on gradient blue -->
-[![Follow @princechouksey](https://img.shields.io/badge/FOLLOW-@PRINCECHOUKSEY-blue?style=for-the-badge&color=blue&labelColor=0D1117)](https://github.com/princechouksey)
-
-
+<!-- Custom hex colors -->
+[![Follow @princechouksey](https://img.shields.io/badge/FOLLOW-@PRINCECHOUKSEY-f3f6f4?style=for-the-badge&color=FF5733&labelColor=2E2E2E)](https://github.com/princechouksey)
 ## 📈 GitHub Stats
 
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princechouksey&show_icons=true&theme=radical)
