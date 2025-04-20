@@ -12,6 +12,10 @@
 - 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/princechouksey) or via [Email](mailto:princechouksey@gmail.com)  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=princechouksey&style=flat-square&color=gray&label=Profile+views)
+
+<!-- Follow Button -->
+[![Follow @princechouksey](https://img.shields.io/badge/FOLLOW-@PRINCECHOUKSEY-gray?style=for-the-badge)](https://github.com/princechouksey)
 
 ## 📈 GitHub Stats
 
